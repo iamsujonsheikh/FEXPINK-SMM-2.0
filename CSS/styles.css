@@ -149,6 +149,17 @@ ul , ol {
     color: var(--white-color);
 }
 
+/* Extra */
+.fex{
+    color: rgba(82, 93, 221, 1);
+}
+.pink{
+    color: rgba(255, 39, 124, 1);
+}
+.smm{
+    color: rgba(255, 198, 31, 1);
+}
+
 /* Def Middle Style */
 .top_small{
     font-family: var(--title-font);
